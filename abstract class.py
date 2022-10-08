@@ -31,7 +31,7 @@ class father(ABC):
     def disp(self):
         pass
 
-    def show1(self):
+    def show1(self1):
         print('Concrete method')
 
 
